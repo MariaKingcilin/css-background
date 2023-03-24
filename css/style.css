@@ -1,0 +1,124 @@
+.bgi{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+}
+.bgixr{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:repeat-x;
+}
+.bgiyr{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:repeat-y;
+}
+.bginr{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+}
+.bgiplt{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:left top;
+}
+.bgiplc{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:left center;
+}
+.bgiplb{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+}
+.bgipct{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+.bgipcc{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+.bgipcb{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+.bgiprt{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:right top;
+}
+.bgiprc{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+.bgiprb{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+.bgiaf{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:left center;
+	background-attachment:fixed;
+}
+.bgias{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background-image:url(..//image/xv.jpg);
+	background-repeat:no-repeat;
+	background-position:left center;
+	background-attachment:scroll;
+	/* background-size:cover; */
+}
+.bgs{
+	border:black solid 5px;
+	width:800px;
+	height:800px;
+	background:blue url(..//image/xv.jpg) repeat fixed center center;
+}
